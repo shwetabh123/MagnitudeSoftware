@@ -11,7 +11,7 @@ namespace TestDimension
 
             if(areaofbag < areaoflaptop)
             {
-                Console.WriteLine("Laptop wont fit in Bag ");
+                Console.WriteLine("Laptop wont fit in the  Bag ");
 
             }
 
@@ -19,7 +19,7 @@ namespace TestDimension
             else if(areaofbag > areaoflaptop)
             {
 
-                Console.WriteLine("Laptop will fit in Bag");
+                Console.WriteLine("Laptop will fit in the Bag");
             }
         }
 
